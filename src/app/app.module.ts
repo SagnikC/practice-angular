@@ -13,12 +13,7 @@ import { BlogEditComponent } from './blog-edit/blog-edit.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HomeComponent,
-    BlogViewComponent,
-    BlogCreateComponent,
-    BlogEditComponent
-  ],
+    ],
   imports: [
     BrowserModule,
 
